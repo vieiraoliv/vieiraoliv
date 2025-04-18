@@ -32,7 +32,10 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Hi! I'm Henrique, a Computer Information Systems student at FIAP 💻  
+Passionate about tech, I apply my skills in web development and real-world solutions 🚀  
+I love learning, solving problems, and building with purpose 🎯  
+</p>
 
 ###
 
